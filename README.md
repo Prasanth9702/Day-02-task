@@ -1,4 +1,5 @@
 Difference between document and window:
+
 DOCUMENT:
 1.	It represents any HTML document or web page that is loaded in the browser.
 2.	It is loaded inside the window.
@@ -11,6 +12,7 @@ DOCUMENT:
 document.propertyname;
 9.	example:
 document.title :  will return the title of the document
+
 WINDOW:
 1.	It represents a browser window or frame that displays the contents of the webpage.   
 2.	It is the very first object that is loaded in the browser.
